@@ -1,4 +1,6 @@
 let button = document.getElementById('clicker');
+
+// clickSpeed is in milliseconds
 let clickSpeed = 2;
 
 let clicker = 
